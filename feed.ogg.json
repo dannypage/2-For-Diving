@@ -1,5 +1,45 @@
----
-layout: jsonfeed
-format: ogg
----
-{{ content }}
+{"version": "https://jsonfeed.org/version/1",
+ "title": "Octopod",
+ "home_page_url": "https://danny.page/2-For-Diving/",
+ "feed_url": "https://danny.page/2-For-Diving/feed.json",
+ "description": "My super duper cool podcast.",
+ "user_comment": "My super duper cool podcast.",
+ "icon": "https://danny.page/2-For-Diving/apple-touch-icon-precomposed.png",
+ "favicon": "https://danny.page/2-For-Diving/favicon.ico",
+ "expired": false,
+ "author": {
+   "name": "Uncle Octopod",
+   "url": "http://danny.page/"
+ },
+ "items": [
+   {"id": "f5c40dea",
+    "title": "Welcome to Jekyll!",
+    "summary": "",
+    "content_text": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.Jekyll requires blog post files to be named according to the following format:YEAR-MONTH-DAY-title.MARKUPWhere YEAR is a four-digit number, MONTH and DAY are both two-digit numbers, and MARKUP is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.Jekyll also offers powerful support for code snippets:def print_hi(name)  puts \"Hi, #{name}\"endprint_hi('Tom')#=&gt; prints 'Hi, Tom' to STDOUT.Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.",
+    "content_html": "<p>You’ll find this post in your <code class=\"highlighter-rouge\">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class=\"highlighter-rouge\">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p><p>Jekyll requires blog post files to be named according to the following format:</p><p><code class=\"highlighter-rouge\">YEAR-MONTH-DAY-title.MARKUP</code></p><p>Where <code class=\"highlighter-rouge\">YEAR</code> is a four-digit number, <code class=\"highlighter-rouge\">MONTH</code> and <code class=\"highlighter-rouge\">DAY</code> are both two-digit numbers, and <code class=\"highlighter-rouge\">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p><p>Jekyll also offers powerful support for code snippets:</p><figure class=\"highlight\"><pre><code class=\"language-ruby\" data-lang=\"ruby\"><span class=\"k\">def</span> <span class=\"nf\">print_hi</span><span class=\"p\">(</span><span class=\"nb\">name</span><span class=\"p\">)</span>  <span class=\"nb\">puts</span> <span class=\"s2\">\"Hi, </span><span class=\"si\">#{</span><span class=\"nb\">name</span><span class=\"si\">}</span><span class=\"s2\">\"</span><span class=\"k\">end</span><span class=\"n\">print_hi</span><span class=\"p\">(</span><span class=\"s1\">'Tom'</span><span class=\"p\">)</span><span class=\"c1\">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure><p>Check out the <a href=\"https://jekyllrb.com/docs/home\">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href=\"https://github.com/jekyll/jekyll\">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href=\"https://talk.jekyllrb.com/\">Jekyll Talk</a>.</p>",
+    "url": "https://danny.page/2-For-Diving/jekyll/update/2020/02/04/welcome-to-jekyll.html",
+    "date_published": "2020-02-04T23:37:33-08:00",
+    "date_modified": "2020-02-04T23:37:33-08:00",
+    "author": {
+      "name": ""
+    }
+  },
+   {"id": "a7a253a0",
+    "title": "Episode 0",
+    "summary": "",
+    "content_text": "Show Notes and Links  Well this is the place for the Show Notes.  Send Feedback either in the Github Repo or at the Twitter account @AuaUffCode.",
+    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://danny.page/2-For-Diving/episodes/episode0.mp3\",\"ogg\":\"https://danny.page/2-For-Diving/episodes/episode0.ogg\",\"m4a\":\"https://danny.page/2-For-Diving/episodes/episode0.m4a\"},\"coverUrl\":\"https://danny.page/2-For-Diving/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"https://danny.page/2-For-Diving/2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://danny.page/2-For-Diving/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
+    "url": "https://danny.page/2-For-Diving/2016/03/22/episode0.html",
+    "attachments": [
+      {"url": "https://danny.page/2-For-Diving/episodes/episode0.ogg",
+       "mime_type": "audio/mpeg",
+       "size_in_bytes": "45750"
+      }
+    ],
+    "date_published": "2016-03-22T00:00:00-07:00",
+    "date_modified": "2016-03-22T00:00:00-07:00",
+    "author": {
+      "name": "Arne and Stefan"
+    }
+  }]
+}
