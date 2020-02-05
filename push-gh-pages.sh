@@ -35,4 +35,5 @@ fi
 git add .
 git commit -m "pages built at $described_rev" -e
 git push origin gh-pages
+git checkout master
 
