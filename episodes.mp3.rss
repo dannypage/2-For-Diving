@@ -19,7 +19,7 @@
     
     <description>We take a look at teams around hockey and see how they are set up for now and in the future.
 </description>
-    <lastBuildDate>Wed, 12 Feb 2020 22:59:09 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 08:36:22 -0800</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.12</generator>
 
@@ -50,20 +50,28 @@
         
         
           <item>
-            <title>Ep. 15: The Pen is Mightier than the Sabres - Sabres deep-dive</title>
+            <title>Ep. 15: The Pen is Mightier than the Sabres - Sabres 2019-20 deep-dive</title>
             <link>https://danny.page/2-For-Diving/2020/02/12/ep_-15_-the-pen-is-mightier-than-the-sabres.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://danny.page/2-For-Diving/players/ep_-15_-the-pen-is-mightier-than-the-sabres"/>
             <comments>https://danny.page/2-For-Diving/2020/02/12/ep_-15_-the-pen-is-mightier-than-the-sabres.html#disqus_thread</comments>
             <pubDate>Wed, 12 Feb 2020 00:00:00 -0800</pubDate>
             
             <guid isPermaLink="false">https://danny.page/2-For-Diving/2020/02/12/ep_-15_-the-pen-is-mightier-than-the-sabres.html</guid>
-            <description><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
+            <description><![CDATA[<p>The Sabres have become the poster-child for below average hockey. But why? Danny, Nick, and Mike look at what is keeping the Sabres from relevancy in the Eastern Conference.</p>
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
   <li>Note</li>
 </ul>
 ]]></description>
-            <content:encoded><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
+            <content:encoded><![CDATA[<p>The Sabres have become the poster-child for below average hockey. But why? Danny, Nick, and Mike look at what is keeping the Sabres from relevancy in the Eastern Conference.</p>
+
+
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
   <li>Note</li>
@@ -72,14 +80,31 @@
             
             <enclosure url="https://danny.page/2-For-Diving/episodes/sabres_feb_2020.mp3" length="40668773" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Sabres deep-dive</itunes:subtitle>
+            <itunes:subtitle>Sabres 2019-20 deep-dive</itunes:subtitle>
             <itunes:summary>The Sabres have become the poster-child for below average hockey. But why? Danny, Nick, and Mike look at what is keeping the Sabres from relevancy in the Eastern Conference.</itunes:summary>
             <itunes:author>Mike Ali, Danny Page, Nick Kramer</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
             <itunes:duration>57:34</itunes:duration>
             
             
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Cold Open" />
+              
+              <psc:chapter start="00:10:53.000" title="Intro Music" />
+              
+              <psc:chapter start="00:11:55.000" title="Main Episode" />
+              
+            </psc:chapters>
             
+            
+            
+              <itunes:image href="https://danny.page/2-For-Diving/img/2-for-diving-profile-image.jpg" />
+              <image>
+                <title></title>
+                <url>https://danny.page/2-For-Diving/img/2-for-diving-profile-image.jpg</url>
+                <link>https://danny.page/2-For-Diving</link>
+              </image>
             
           </item>
         
