@@ -2,10 +2,12 @@
   <h1>
     <a class='episode_title' href='{{ site.url }}{{ post.url }}#{{ post.id | sha1:8 }}'>{{ post.title }}</a>
     <br />
-    <small class='episode_date'>
-      {{ post.date | date: "%B %d, %Y" }}
-    </small> <br />
-    <small>Hosts: {{ post.author }}</small> <br />
     <small>{{ post.subtitle }}</small>
+    <br />
+    <small class='episode_date'>
+      Published on {{ post.date | date: "%B %d, %Y" }}
+    </small> 
+    <br />
+    <small>Hosts: {{ post.author }}</small> <br />
   </h1>
 </div>
