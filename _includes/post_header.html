@@ -1,17 +1,11 @@
 <div class="page-header">
   <h1>
     <a class='episode_title' href='{{ site.url }}{{ post.url }}#{{ post.id | sha1:8 }}'>{{ post.title }}</a>
+    <br />
     <small class='episode_date'>
-      {% if site.language == "en" %}
-        {{ post.date | full_date_de }}
-      {% else %}
-        {% if post.datum %}
-          {{ post.datum }}
-        {% else %}
-          {{ post.date }}
-        {% endif %}
-      {% endif %}
+      {{ post.date | date: "%B %d, %Y" }}
     </small> <br />
+    <small>Hosts: {{ post.author }}</small> <br />
     <small>{{ post.subtitle }}</small>
   </h1>
 </div>

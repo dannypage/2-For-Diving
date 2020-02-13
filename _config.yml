@@ -1,18 +1,18 @@
-title: Octopod
+title: 2 For Diving
 url: https://danny.page/2-For-Diving
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
 download_url: "https://danny.page/2-For-Diving/episodes"
-subtitle: Static Site Podcast Publishing for Geeks
-description: My super duper cool podcast.
-author: Uncle Octopod
+subtitle: 
+description: We take a look at teams around hockey and see how they are set up for now and in the future.
+author: Mike Ali, Danny Page, Nick Kramer
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
 author_url: "http://danny.page/"
 
 email: octopod@example.com
-keywords: [octopod, podcast, magic]
-itunes_categories: [Technology]
+keywords: [NHL, hockey]
+itunes_categories: [Sports]
 episodes_per_feed_page: 100
 
 player_theme: default # default | "default-dark" | legacy | minimal | republica
@@ -38,7 +38,7 @@ license_url: https://creativecommons.org/licenses/by/4.0/
 license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
 
 ### Feed links, optional
-itunes_url: https://itunes.apple.com/at/podcast/myname/id232323
+itunes_url: https://podcasts.apple.com/us/podcast/id1461713739
 # google_play_url: https://playmusic.app.goo.gl/...
 # bitlove_url: https://bitlove.org/myaccount
 # fyyd_url: https://fyyd.de/podcast/myaccount/myid
